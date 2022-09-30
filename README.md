@@ -22,11 +22,7 @@ Alternative Hypothesis: There is a relationship between the features of a house 
 
 ### Results
 
-<<<<<<< HEAD
-![graph](priceandsqft_living.png)
-=======
-![graph](price and sqft_living.png)
->>>>>>> 7c2bf78182a4cf543b5f71646291deef967c0f4c
+![graph](priceandsqftliving.png)
 
 The square footage of the living room is positively correlated to the price of a house.
 
