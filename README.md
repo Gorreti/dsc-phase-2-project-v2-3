@@ -53,3 +53,7 @@ Also, houses that have no waterfront compared to those with a waterfront reduce 
 * Ensure that the grade of your home is a grade 10(Very Good) and above.
 * Ensure the condition for your home is very good.
 * Having your home on a waterfront is an added advantage.
+
+### Link to Tableau Dashboard
+
+Click this [dashboard](https://public.tableau.com/app/profile/gorreti.muthoni/viz/FeaturesthatIncreasetheSellingPriceofHouses/FeaturesThatIncreasethePriceofahouse?publish=yes) link to see some of the visualizations on the Kings County data.
