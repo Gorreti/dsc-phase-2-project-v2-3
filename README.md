@@ -22,7 +22,7 @@ Alternative Hypothesis($H_a$): There is a relationship between the features of a
 
 ### Results
 
-![graph](sqft_living.png)
+![graph](price and sqft_living.png)
 
 The square footage of the living room is positively correlated to the price of a house.
 
